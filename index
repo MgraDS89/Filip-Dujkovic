@@ -4,12 +4,12 @@
          <h1>VJEŽBE</h1>
       </head>
       <body>
-       <a href = "omiljenipredmeti.html"> Moji omiljeni predmeti </a> <br>  
-        <a href = "mihajlopupin.html"> Mihajlo Pupin </a> <br>
-       <a href = "casovi.html"> Časovi </a> <br>
-        <a href = "rasporedskole.html"> Raspored škole </a> <br>
+       <a href = "najdrazipredmeti.html"> Najdrazi predmeti </a> <br>  
+        <a href = "marijakiri.html"> Marija Kiri </a> <br>
+       <a href = "rasporedcasovi.html"> Raspored Časova </a> <br>
+        <a href = "rasporeddana.html"> Raspored škole </a> <br>
         <a href = "sadrzaj.html"> Sadržaj </a> <br>
-        <a href = "%C5%BEivina.html"> Živina </a> <br>
+        <a href = "%C5%BEivotinje.html"> Živina </a> <br>
   </body> 
 </html>
 
